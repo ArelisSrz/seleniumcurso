@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -41,18 +44,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c25e5be-45e7-4e38-a49e-125c876a6f81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Empresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Excepciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GestionCamiones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/camion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ArrayListUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArrayListUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Empleado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +62,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1fT3qOPzxG7Q6ylNRiIQoEnhYmf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -82,6 +82,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -105,11 +106,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="219" y="0" key="#Project_Structure" timestamp="1596253470805">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="219" y="0" key="#Project_Structure/0.0.1366.738/-1920.-313.1920.1050@0.0.1366.738" timestamp="1596253470805" />
+    <state x="469" y="132" key="FileChooserDialogImpl" timestamp="1596325171101">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="469" y="132" key="FileChooserDialogImpl/0.0.1366.738/-1920.-313.1920.1050@0.0.1366.738" timestamp="1596325171101" />
+    <state x="72" y="38" key="new project wizard" timestamp="1598640992352">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="72" y="38" key="new project wizard/0.0.1366.738/-1920.-313.1920.1050@0.0.1366.738" timestamp="1598640992352" />
   </component>
 </project>
